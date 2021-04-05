@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I'm a PeopleSoft Developer and Graduate Student @ Central Washington University<img alt="Wildcat Logo" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/cwu.png"/>.
+I'm a PeopleSoft Developer and Graduate Student @ Central Washington University <img alt="Wildcat Logo" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/cwu.png"/>.
 
 - 🔭 I’m currently working on machine learning applications for cybersecurity.
 - 🌱 I’m currently learning about Tensorflow, Spark, and various encryption algorithms.
@@ -27,8 +27,10 @@ I'm a PeopleSoft Developer and Graduate Student @ Central Washington University<
 <img align="left" alt="postgres" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/postgres.jpg">
 <img align="left" alt="angular" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/angular.png">
 
+<br />
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=reevesba&theme=vue&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=reevesba&theme=vue&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=reevesba&theme=vue&layout=compact&langs_count=8)
 
 <!--
 **reevesba/reevesba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
