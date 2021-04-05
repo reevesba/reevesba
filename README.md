@@ -7,25 +7,28 @@
   <img align="left" alt="Brad's Discord" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/discord.svg" />
 </a> 
 
+<br />
+<br />
+
 I'm a PeopleSoft Developer and Graduate Student @ Central Washington University<img alt="Wildcat Logo" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/cwu.png"/>.
 
 - 🔭 I’m currently working on machine learning applications for cybersecurity.
 - 🌱 I’m currently learning about Tensorflow, Spark, and various encryption algorithms.
 - 👯 I’m looking to collaborate on [ML Interview Toolkit](https://github.com/reevesba/mlit).
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=reevesba&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=reevesba&layout=compact)
-
 **Languages & Tools**
 
-<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/python.png">
-<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/sklearn.png">
-<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/tensorflow.png">
-<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/spark.png">
-<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/java.jpg">
-<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/c.jpg">
-<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/postgres.jpg">
-<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/angular.png">
+<img align="left" alt="python" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/python.png">
+<img align="left" alt="sklearn" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/sklearn.png">
+<img align="left" alt="tensorflow" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/tensorflow.png">
+<img align="left" alt="spark" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/spark.png">
+<img align="left" alt="java" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/java.jpg">
+<img align="left" alt="c" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/c.jpg">
+<img align="left" alt="postgres" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/postgres.jpg">
+<img align="left" alt="angular" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/angular.png">
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=reevesba&theme=vue&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=reevesba&theme=vue&layout=compact)
 
 <!--
 **reevesba/reevesba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
