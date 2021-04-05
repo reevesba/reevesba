@@ -1,13 +1,13 @@
 ### Greetings, I'm Brad 👋👽
 
 <a href="https://www.linkedin.com/in/bareeves/">
-  <img align="left" alt="Brad's LinkedIn" width="21px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/linkedin.svg" />
+  <img align="left" alt="Brad's LinkedIn" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/linkedin.svg" />
 </a>
 <a href="https://discord.gg/mMUktshNH4">
-  <img align="left" alt="Brad's Discord" width="21px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/discord.svg" />
+  <img align="left" alt="Brad's Discord" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/discord.svg" />
 </a> 
 
-I'm a PeopleSoft Developer and Graduate Student @ Central Washington University<code><img align="left" alt="Wildcat Logo" width="21px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/cwu.png"/></code>.
+I'm a PeopleSoft Developer and Graduate Student @ Central Washington University<img alt="Wildcat Logo" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/cwu.png"/>.
 
 - 🔭 I’m currently working on machine learning applications for cybersecurity.
 - 🌱 I’m currently learning about Tensorflow, Spark, and various encryption algorithms.
@@ -17,15 +17,15 @@ I'm a PeopleSoft Developer and Graduate Student @ Central Washington University<
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=reevesba&layout=compact)
 
 **Languages & Tools**
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/sklearn.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/spark.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/java.jpg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/c.jpg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/postgres.jpg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/oracle.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/angular.png"></code>
+
+<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/python.png">
+<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/sklearn.png">
+<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/tensorflow.png">
+<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/spark.png">
+<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/java.jpg">
+<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/c.jpg">
+<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/postgres.jpg">
+<img height="40" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/angular.png">
 
 <!--
 **reevesba/reevesba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
