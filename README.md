@@ -1,10 +1,10 @@
 ### Greetings, I'm Brad 👋👽
 
 <a href="https://www.linkedin.com/in/bareeves/">
-  <img align="left" alt="Brad's LinkedIn" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/linkedin.svg" />
+  <img align="left" alt="Brad's LinkedIn" width="25px" src="assets/linkedin.svg" />
 </a>
 <a href="https://discord.gg/mMUktshNH4">
-  <img align="left" alt="Brad's Discord" width="25px" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/discord.svg" />
+  <img align="left" alt="Brad's Discord" width="25px" src="assets/discord.svg" />
 </a> 
 
 <br />
@@ -18,14 +18,14 @@ I'm a PeopleSoft Developer and Graduate Student @ Central Washington University 
 
 **Languages & Tools**
 
-<img align="left" alt="python" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="sklearn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />
-<img align="left" alt="tensorflow" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
-<img align="left" alt="spark" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />
-<img align="left" alt="java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" alt="c" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-<img align="left" alt="postgres" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
-<img align="left" alt="angular" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
+<img align="left" alt="python" width="32px" src="assets/python.svg" />
+<img align="left" alt="sklearn" width="32px" src="assets/sklearn.svg" />
+<img align="left" alt="tensorflow" width="32px" src="assets/tensorflow.svg" />
+<img align="left" alt="spark" width="32px" src="assets/spark.svg" />
+<img align="left" alt="java" width="32px" src="assets/java.svg" />
+<img align="left" alt="c" width="32px" src="assets/c.svg" />
+<img align="left" alt="postgres" width="32px" src="assets/postgresql.svg" />
+<img align="left" alt="angular" width="32px" src="assets/angular.svg" />
 
 <br />
 <br />
