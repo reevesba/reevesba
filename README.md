@@ -18,14 +18,14 @@ I'm a PeopleSoft Developer and Graduate Student @ Central Washington University 
 
 **Languages & Tools**
 
-<img align="left" alt="python" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/python.png">
-<img align="left" alt="sklearn" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/sklearn.png">
-<img align="left" alt="tensorflow" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/tensorflow.png">
-<img align="left" alt="spark" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/spark.png">
-<img align="left" alt="java" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/java.jpg">
-<img align="left" alt="c" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/c.jpg">
-<img align="left" alt="postgres" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/postgres.jpg">
-<img align="left" alt="angular" height="20" src="https://raw.githubusercontent.com/reevesba/reevesba/master/assets/angular.png">
+<img align="left" alt="python" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="sklearn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />
+<img align="left" alt="tensorflow" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
+<img align="left" alt="spark" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />
+<img align="left" alt="java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="c" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img align="left" alt="postgres" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img align="left" alt="angular" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
 
 <br />
 <br />
