@@ -1,3 +1,5 @@
+<img src="assets/title.svg">
+
 ### Greetings, I'm Brad 👋👽
 
 <a href="https://www.linkedin.com/in/bareeves/">
