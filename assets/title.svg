@@ -58,10 +58,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="949.85745"
+     inkscape:cx="399.85745"
      inkscape:cy="720.41902"
      inkscape:document-units="mm"
-     inkscape:current-layer="g945"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      units="mm"
@@ -86,7 +86,16 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="background" />
+     inkscape:label="background">
+    <rect
+       style="fill:#9e9a75;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect976"
+       width="556.92023"
+       height="174.91881"
+       x="4.79036"
+       y="45.53162"
+       transform="matrix(1.004064,0,0,1.004064,-4.8098281,-45.716661)" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
