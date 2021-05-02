@@ -327,10 +327,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1029.0417"
+     inkscape:cx="1174.756"
      inkscape:cy="341.21858"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="mm"
@@ -369,56 +369,52 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="foreground">
-    <ellipse
-       style="fill:#9e9a75;fill-opacity:0.89999998;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path3261"
-       cx="279.16602"
-       cy="88.398514"
-       rx="176.51489"
-       ry="51.782734" />
-  </g>
+     inkscape:label="foreground" />
   <g
      inkscape:label="text"
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g3209"
-       clip-path="url(#clipPath3215)"
-       transform="matrix(1.2967975,0,0,1.2967975,-83.898035,-18.617331)"
-       style="fill:#ffffff;fill-opacity:1">
+       id="g3281">
+      <ellipse
+         style="fill:#9e9a75;fill-opacity:0.9;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3261"
+         cx="279.16602"
+         cy="88.398514"
+         rx="176.51489"
+         ry="51.782734" />
       <g
          id="g848"
-         transform="matrix(0.74554156,0,0,0.74554156,85.066385,-9.5929833)"
+         transform="matrix(0.96681643,0,0,0.96681643,26.41584,-31.057488)"
          style="fill:#ffffff;fill-opacity:1">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8505px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24627"
-           x="124.98526"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8505px;line-height:1.25;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24627"
+           x="127.22464"
            y="123.82352"
            id="text835"
            transform="scale(0.94895982,1.0537854)"><tspan
              sodipodi:role="line"
              id="tspan833"
-             x="124.98526"
+             x="127.22464"
              y="123.82352"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8505px;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.24627">Brad Reeves</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8505px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.24627">Brad Reeves</tspan><tspan
              sodipodi:role="line"
-             x="124.98526"
+             x="127.22464"
              y="186.13664"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8505px;font-family:Consolas;-inkscape-font-specification:'Consolas, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.24627"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8505px;font-family:'Microsoft JhengHei';-inkscape-font-specification:'Microsoft JhengHei, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.24627"
              id="tspan837" /></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="155.84856"
-           y="148.24225"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.9008px;line-height:1.25;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.195885"
+           x="168.79837"
+           y="159.11084"
            id="text841"><tspan
              sodipodi:role="line"
              id="tspan839"
-             x="155.84856"
-             y="148.24225"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">Software Engineer</tspan></text>
+             x="168.79837"
+             y="159.11084"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.9008px;font-family:'Freestyle Script';-inkscape-font-specification:'Freestyle Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.195885">Software Engineer</tspan></text>
       </g>
     </g>
   </g>
