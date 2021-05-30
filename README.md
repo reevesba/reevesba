@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/bareeves/">
   <img align="left" alt="Brad's LinkedIn" width="25px" src="assets/linkedin.svg" />
 </a>
-<a href="https://discord.gg/mMUktshNH4">
-  <img align="left" alt="Brad's Discord" width="25px" src="assets/discord.svg" />
-</a> 
 
 <br />
 <br />
@@ -16,7 +13,7 @@ I'm a PeopleSoft Developer and Graduate Student @ Central Washington University 
 
 - 🔭 I’m currently working on machine learning applications for cybersecurity.
 - 🌱 I’m currently learning about Tensorflow, Spark, and various encryption algorithms.
-- 👯 I’m looking to collaborate on [ML Interview Toolkit](https://github.com/reevesba/mlit).
+- 👯 I’m looking to collaborate on [ML Interview Toolkit](https://github.com/reevesba/mlit). Note: site is currently down. 
 
 **Languages & Tools**
 
